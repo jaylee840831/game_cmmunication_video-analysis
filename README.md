@@ -30,7 +30,8 @@ mary   | 12345
 此為多人聊天室，以web socket開發，目前僅做完聊天功能，尚未針對不同球局開發聊天室，所以從哪個球局進來都是同一聊天室 :) <br/>
 <img src="https://github.com/jaylee840831/game_cmmunication_video-analysis/blob/main/%E7%90%83%E8%B3%BD%E7%B4%84%E6%88%B0%E8%88%87%E5%BD%B1%E7%89%87%E5%88%86%E6%9E%90%E5%B9%B3%E5%8F%B02/%E7%90%83%E5%B1%80%E8%81%8A%E5%A4%A9.JPG" />
 4. 個人資料<br/>
-修改個人資料，姓名會連動修改登入的帳號名稱以及球局發起人姓名<br/>
+修改個人資料，姓名會連動修改登入的帳號名稱以及球局發起人姓名，因為使用spring security所以需要先更改spring security內user details的user name<br/>
+<img src="https://github.com/jaylee840831/game_cmmunication_video-analysis/blob/main/%E7%90%83%E8%B3%BD%E7%B4%84%E6%88%B0%E8%88%87%E5%BD%B1%E7%89%87%E5%88%86%E6%9E%90%E5%B9%B3%E5%8F%B02/update_personInfo%E6%9E%B6%E6%A7%8B.jpg" />
 <img src="https://github.com/jaylee840831/game_cmmunication_video-analysis/blob/main/%E7%90%83%E8%B3%BD%E7%B4%84%E6%88%B0%E8%88%87%E5%BD%B1%E7%89%87%E5%88%86%E6%9E%90%E5%B9%B3%E5%8F%B02/%E5%80%8B%E4%BA%BA%E8%B3%87%E6%96%99%E7%95%AB%E9%9D%A2.JPG" />
 5. 發起球局(尚未開發)<br/>
 可發起自己的球局<br/>
