@@ -21,7 +21,7 @@ mary   | 12345
 
 1. 登入畫面<p/>
 以spring security進行使用者登入驗證<br/>
-<img src="https://github.com/jaylee840831/game_cmmunication_video-analysis/blob/main/%E7%90%83%E8%B3%BD%E7%B4%84%E6%88%B0%E8%88%87%E5%BD%B1%E7%89%87%E5%88%86%E6%9E%90%E5%B9%B3%E5%8F%B02/login%E6%B5%81%E7%A8%8B.jpg" />
+<img src="https://github.com/jaylee840831/game_cmmunication_video-analysis/blob/master/%E7%90%83%E8%B3%BD%E7%B4%84%E6%88%B0%E8%88%87%E5%BD%B1%E7%89%87%E5%88%86%E6%9E%90%E5%B9%B3%E5%8F%B02/login%E6%B5%81%E7%A8%8B.jpg" />
 <img src="https://github.com/jaylee840831/game_cmmunication_video-analysis/blob/main/%E7%90%83%E8%B3%BD%E7%B4%84%E6%88%B0%E8%88%87%E5%BD%B1%E7%89%87%E5%88%86%E6%9E%90%E5%B9%B3%E5%8F%B02/%E7%99%BB%E5%85%A5%E7%95%AB%E9%9D%A2.JPG" />
 2. 主畫面 <p/>
 球局資訊查詢，點擊查看會進入該球局聊天室，並帶有cookie分辨是哪場球局<br/>
