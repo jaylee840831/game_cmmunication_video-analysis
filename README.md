@@ -23,7 +23,7 @@ mary   | 12345
 以spring security進行使用者登入驗證<br/>
 <img src="https://github.com/jaylee840831/game_cmmunication_video-analysis/blob/main/%E7%90%83%E8%B3%BD%E7%B4%84%E6%88%B0%E8%88%87%E5%BD%B1%E7%89%87%E5%88%86%E6%9E%90%E5%B9%B3%E5%8F%B02/login%E6%B5%81%E7%A8%8B.jpg" />
 <img src="https://github.com/jaylee840831/game_cmmunication_video-analysis/blob/main/%E7%90%83%E8%B3%BD%E7%B4%84%E6%88%B0%E8%88%87%E5%BD%B1%E7%89%87%E5%88%86%E6%9E%90%E5%B9%B3%E5%8F%B02/%E7%99%BB%E5%85%A5%E7%95%AB%E9%9D%A2.JPG" />
-2. 主畫面<p/>
+2. 主畫面 <p/>
 球局資訊查詢，點擊查看會進入該球局聊天室，並帶有cookie分辨是哪場球局<br/>
 <img src="https://github.com/jaylee840831/game_cmmunication_video-analysis/blob/main/%E7%90%83%E8%B3%BD%E7%B4%84%E6%88%B0%E8%88%87%E5%BD%B1%E7%89%87%E5%88%86%E6%9E%90%E5%B9%B3%E5%8F%B02/%E4%B8%BB%E7%95%AB%E9%9D%A2.JPG" />
 3. 球局聊天室<p/>
@@ -33,12 +33,12 @@ mary   | 12345
 修改個人資料，姓名會連動修改登入的帳號名稱以及球局發起人姓名，因為使用spring security所以需要先更改spring security內user details的user name<br/>
 <img src="https://github.com/jaylee840831/game_cmmunication_video-analysis/blob/main/%E7%90%83%E8%B3%BD%E7%B4%84%E6%88%B0%E8%88%87%E5%BD%B1%E7%89%87%E5%88%86%E6%9E%90%E5%B9%B3%E5%8F%B02/update_personInfo%E6%9E%B6%E6%A7%8B.jpg" />
 <img src="https://github.com/jaylee840831/game_cmmunication_video-analysis/blob/main/%E7%90%83%E8%B3%BD%E7%B4%84%E6%88%B0%E8%88%87%E5%BD%B1%E7%89%87%E5%88%86%E6%9E%90%E5%B9%B3%E5%8F%B02/%E5%80%8B%E4%BA%BA%E8%B3%87%E6%96%99%E7%95%AB%E9%9D%A2.JPG" />
-5. 發起球局(尚未開發)<br/>
-可發起自己的球局<br/>
-6. 球局歷史紀錄(尚未開發)<br/>
-會紀錄收藏過的球局、進過的球局聊天室以及自己發起過的球局<br/>
-7. 影片分析(尚未開發)<br/>
-希望能整合我論文的球賽分析技術，讓使用者可以在網路上自動剪輯球賽影片等等<br/>
+5. 發起球局(尚未開發)<p/>
+可發起自己的球局<p/>
+6. 球局歷史紀錄(尚未開發)<p/>
+會紀錄收藏過的球局、進過的球局聊天室以及自己發起過的球局<p/>
+7. 影片分析(尚未開發)<p/>
+希望能整合我論文的球賽分析技術，讓使用者可以在網路上自動剪輯球賽影片等等<p/>
 8. 聊天室<p/>
 此為一對一聊天室，以web socket開發，可以與好友即時聊天，但是因為沒存對話紀錄所以同時在聊天室頁面才會收到訊息 :) <br/>
 <img src="https://github.com/jaylee840831/game_cmmunication_video-analysis/blob/main/%E7%90%83%E8%B3%BD%E7%B4%84%E6%88%B0%E8%88%87%E5%BD%B1%E7%89%87%E5%88%86%E6%9E%90%E5%B9%B3%E5%8F%B02/%E5%80%8B%E4%BA%BA%E8%81%8A%E5%A4%A9%E7%95%AB%E9%9D%A2.JPG" />
