@@ -1,4 +1,4 @@
-# 球賽約戰與影片分析平台 game cmmunication and video analysis
+# 球賽約戰與影片分析平台 game communication and video analysis
 
 ## 簡介
 使用Spring Boot開發，搭配資料庫PostgreSQL，且部署於AWS雲端平台。此平台讓愛好籃球的朋友不只可以在上面聊天交流，也可以發布球局，呼朋引伴一起流汗，享受運動帶來的樂趣，而影片分析功能是想搭配論文使用過的技術整合進平台，目前本專案尚未完全開發完成。<br/>
